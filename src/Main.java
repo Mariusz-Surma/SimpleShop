@@ -5,6 +5,6 @@ public class Main {
     Menu menu = new Menu();
     menu.openMenu();
 
-
+System.out.println("xxx");
     }
 }
